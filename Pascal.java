@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class Pascal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Degree of binomial expansion? ");
